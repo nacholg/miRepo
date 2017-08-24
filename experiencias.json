@@ -1,0 +1,65 @@
+{
+  "experiencias":[
+    {
+      "experienciaId":1,
+      "nombreExperiencia":"Experiencia Mundial 2018",
+      "descripcionExperiencia":"Partido de la Seleccion Argentina",
+      "fecha":"31 de Agosto al 31 de Agosto",
+      "precioExperiencia":"Precios desde U$S978.00 por persona",
+      "fotoExperienciaIcono":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/08/10/387/2017081003051110de78e0f12b09dbb44fc26564732a9b.jpg",
+      "fotoExperienciaDetalle":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/08/10/387/2017081003051110de78e0f12b09dbb44fc26564732a9b.jpg"
+    },
+    {
+      "experienciaId":2,
+      "nombreExperiencia":"Experiencia U2",
+      "descripcionExperiencia":"U2 en Concierto",
+      "fecha":"10 de Octubre",
+      "precioExperiencia":"Precios desde $ 10146.00 por persona",
+      "fotoExperienciaIcono":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/06/06/210/20170606124043d66ebf6b0fafdd619e695470bd6b089b.jpg",
+      "fotoExperienciaDetalle":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/06/06/210/20170606124043d66ebf6b0fafdd619e695470bd6b089b.jpg"
+
+    },
+
+    {
+      "experienciaId":3,
+      "nombreExperiencia":"Experiencia Llao Llao",
+      "descripcionExperiencia":"Relax en la Patagonia",
+      "fecha":"14 de Octubre al 17 de Octubre",
+      "precioExperiencia":"Precios desde U$S 835.00 por persona",
+      "fotoExperienciaIcono":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/06/09/234/20170609122310b456532fcbe65317f954747eb83d6f46.jpg",
+      "fotoExperienciaDetalle":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/06/09/234/20170609122310b456532fcbe65317f954747eb83d6f46.jpg"
+
+
+    },
+    {
+      "experienciaId":4,
+      "nombreExperiencia":"Experiencia Mundial 2018",
+      "descripcionExperiencia":"Partido de la Seleccion Argentina",
+      "fecha":"31 de Agosto al 31 de Agosto",
+      "precioExperiencia":"Precios desde U$S978.00 por persona",
+      "fotoExperienciaIcono":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/08/10/387/2017081003051110de78e0f12b09dbb44fc26564732a9b.jpg",
+      "fotoExperienciaDetalle":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/08/10/387/2017081003051110de78e0f12b09dbb44fc26564732a9b.jpg"
+
+    },
+    {
+      "experienciaId":5,
+      "nombreExperiencia":"Experiencia U2",
+      "descripcionExperiencia":"U2 en Concierto",
+      "fecha":"10 de Octubre",
+      "precioExperiencia":"Precios desde $ 10146.00 por persona",
+      "fotoExperienciaIcono":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/06/06/210/20170606124043d66ebf6b0fafdd619e695470bd6b089b.jpg",
+      "fotoExperienciaDetalle":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/06/06/210/20170606124043d66ebf6b0fafdd619e695470bd6b089b.jpg"
+
+    },
+    {
+    "experienciaId":2,
+    "nombreExperiencia":"Experiencia U2",
+    "descripcionExperiencia":"U2 en Concierto",
+    "fecha":"10 de Octubre",
+    "precioExperiencia":"Precios desde $ 10146.00 por persona",
+    "fotoExperienciaIcono":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/06/06/210/20170606124043d66ebf6b0fafdd619e695470bd6b089b.jpg",
+    "fotoExperienciaDetalle":"https://cdn.landatexperiences.com//uploads/imagenes/repositorio/2017/06/06/210/20170606124043d66ebf6b0fafdd619e695470bd6b089b.jpg"
+
+  },
+]
+}
